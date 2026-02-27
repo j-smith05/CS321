@@ -1,0 +1,44 @@
+Name:
+
+Grade: /90
+
+Rubric for Cache project:
+
+Overall Comments:
+
+-Submission
+	
+	-Required files (listed in project description) are present:
+
+	-Compiles without unexplained warnings:
+
+Documentation:
+	-README.md: [10 points]
+
+	-Javadoc and inline comments: [5 points]
+
+
+Code design and style: 
+	-Cache class is defined to be generic, method signatures are correct: [10 points]
+
+	-The CacheExperiment class does not contain any of the Cache functionality
+	(like keeping track of stats on hits/misses): [5 points]
+
+	-Other comments: 
+
+
+Functionality: [60 points]
+	-Provides proper usage message when run without arguments: [5 points]
+
+	-The various debug levels work as defined: [10 points]
+
+	-Calculates cache hits/misses correctly for all eight sample files: 
+
+		-Results match on all tests [45 points]
+
+		-Results are off on one or two tests: [30 points]
+
+		-Results are off on three or more tests: [15 points] 
+	
+
+

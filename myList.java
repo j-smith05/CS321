@@ -54,7 +54,9 @@ public class myList {
         }
     }
 
-    // Print the list
+    /**
+     * Prints the list in order
+     */
     public void printList() {
         Node temp = head;
         while (temp != null) {

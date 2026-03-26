@@ -1,0 +1,42 @@
+Name:
+
+Grade: /80
+
+Rubric for the Stardew Valley using Priority Queue project
+
+Comments:
+
+-Submission
+	-Required files are not missing [return to student for fixing, if needed]:
+		-No need to provide junit jar file if you are using JUnit testing
+	-Did not submit unnecessary files (such as .class files):
+	-Provided classes weren't modified [0 points, not graded]:
+
+Documentation: [20 points]
+	-README.md: 
+	-Javadoc for all methods:
+	-Appropriate but not excessive inline comments:
+
+Code design and style: [10 points]
+	-Appropriate variable and method names:
+	-Appropriate code style:
+	-Interfaces - all provided interfaces were implemented:
+	-Inheritance - MyPriorityQueue class extends MaxHeap class appropriately:
+	-MaxHeap - grows by doubling the array using a private method:
+
+Functionality: [50 points]
+	-MaxHeapTest - appropriate unit tests for MaxHeap class [20 points]:
+
+	-Matches outputs for the six inputs in the test-cases subfolder [5 x 6 = 30 points]:
+		-in1/out1:
+		-in2/out2:
+		-in3/out3:
+		-in4/out4:
+		-in5/out5:
+		-in6/out6:
+
+Extra Credit: Generic MaxHeap:
+	-Used generic MaxHeap [+10 points]:
+		
+
+

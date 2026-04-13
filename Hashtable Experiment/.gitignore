@@ -1,0 +1,8 @@
+.classpath
+.project
+test-cases/
+*.class
+out*
+.idea
+*.iml
+*.jar
